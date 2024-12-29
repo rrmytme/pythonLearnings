@@ -35,4 +35,3 @@ Image and text-to-image
 
 '''
 
-# Supervised Learning:
