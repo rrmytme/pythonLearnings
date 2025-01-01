@@ -22,7 +22,12 @@ y = 1/1+e-z (e power z)
 
 Step3: find Log Loss and regularization
 
-TBUpdated
+-------------------
+
+Logistic regression models are trained using the same process as linear regression models, with two key distinctions:
+
+Logistic regression models use Log Loss as the loss function instead of squared loss.
+Applying regularization is critical to prevent overfitting.
 
 '''
 
