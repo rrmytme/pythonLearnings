@@ -1,0 +1,5 @@
+pydantic[email]==2.7.4
+pytest==8.2.2
+sib-api-v3-sdk==7.6.0
+python-decouple==3.8
+pytest-mock==3.14.0
